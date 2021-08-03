@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncUI.cs" />
     <Compile Include="BurgerMaster.cs" />
     <Compile Include="Ingredients\Bun.cs" />
     <Compile Include="Ingredients\Burger.cs" />

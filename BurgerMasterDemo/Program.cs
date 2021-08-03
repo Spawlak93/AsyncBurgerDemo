@@ -10,7 +10,8 @@ namespace BurgerMasterDemo
     {
         static void Main(string[] args)
         {
-
+            AsyncUI ui = new AsyncUI();
+            ui.Run();
         }
     }
 }
